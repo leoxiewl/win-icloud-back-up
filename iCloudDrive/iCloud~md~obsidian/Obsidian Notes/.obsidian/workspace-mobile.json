@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "c3ce956bfa26708f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2ce4247865f5a16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ae2b071e3503397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_日志 Timeline ⏳/🤔每日复盘/2025-07-26 星期六.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-26 星期六"
+            }
+          },
+          {
+            "id": "4f7010449159cfd1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/要做的事情.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "要做的事情"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b82ede878c14093",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "70e651272ad6a5cd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "42160a20e56c450d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "2b7ddf49f6f9d3af",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "c31dc3dccceadb01",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      },
+      {
+        "id": "53316f8be30d4a32",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "99fc5e208a36884e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "49255f26bef10cd2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_常思常想/悟/人生是一个过程，要不断地有新目标.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "fcfc0cebccb4a0d9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "5-Resource/概念/同理心.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "ce9f4c4ccfda0835",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "4d43f8cbca112793",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
+      "notes-explorer:Notes explorer": false
+    }
+  },
+  "active": "4f7010449159cfd1",
+  "lastOpenFiles": [
+    "10_日志 Timeline ⏳/🤔每日复盘/2025-07-26 星期六.md",
+    "Excalidraw/要做的事情.md",
+    "Excalidraw/顺丰王卫大湾区访谈.md",
+    "10_日志 Timeline ⏳/🤔每日复盘/2025-07-23.md",
+    "10_日志 Timeline ⏳/🤔每日复盘/2025-07-24 星期四.md",
+    "30_项目 Projects 🎯/2025下半年找工作/【重要】求职之外，长远来看更应该做什么？.md",
+    "30_项目 Projects 🎯/2025下半年找工作/1、大模型市场调研.md",
+    "10_日志 Timeline ⏳/🤔每日复盘/2025-07-23 星期三.md",
+    "Excalidraw/Drawing 2025-07-23 23.00.25.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-23 23.00.30.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-23 23.00.22.excalidraw.md",
+    "40_资源 Library 📚/课程专栏笔记/Learning How to Learn/Learning How to Learn Powerful mental tools to help you master tough subjects.md",
+    "40_资源 Library 📚/课程专栏笔记/Learning How to Learn",
+    "30_项目 Projects 🎯/2025下半年找工作/求职准备流程.md",
+    "40_资源 Library 📚/读书笔记/Rework.md",
+    "10_日志 Timeline ⏳/🤔每日复盘/2025-07-22 周二.md",
+    "40_资源 Library 📚/模板 Template/每日复盘模板2025-07-22.md",
+    "00_本源 Core 🧩/【目标】next 工作准备.md",
+    "10_日志 Timeline ⏳/🤔每日复盘",
+    "00_本源 Core 🧩/【目标】制定、拆解、执行、完成、复盘.md",
+    "Excalidraw",
+    "50_人 Sheep 🤵🏻/丁磊/2005浙江大学演讲，听写笔记.md",
+    "50_人 Sheep 🤵🏻/丁磊",
+    "10_日志 Timeline ⏳/日记/2025-07-20 我要去追求我的目标.md",
+    "10_日志 Timeline ⏳/日记",
+    "40_资源 Library 📚/播客笔记/张小珺/95. 对Manus创始人肖弘的3小时访谈：世界不是线性外推，做博弈中的重要变量.md",
+    "40_资源 Library 📚/播客笔记/张小珺",
+    "40_资源 Library 📚/播客笔记",
+    "40_资源 Library 📚/课程专栏笔记/课代表立正-如何从「会工作」到「会赚钱」？/认知觉醒/attachments/Pasted image 20250226234058.png",
+    "40_资源 Library 📚/课程专栏笔记/课代表立正-如何从「会工作」到「会赚钱」？/认知觉醒/attachments/Pasted image 20250228083736.png",
+    "40_资源 Library 📚/课程专栏笔记/课代表立正-如何从「会工作」到「会赚钱」？/认知觉醒/attachments/Pasted image 20250226090609.png",
+    "40_资源 Library 📚/课程专栏笔记/课代表立正-如何从「会工作」到「会赚钱」？/认知觉醒/attachments/Pasted image 20250227235642.png",
+    "40_资源 Library 📚/课程专栏笔记/课代表立正-如何从「会工作」到「会赚钱」？/认知觉醒/attachments/Pasted image 20250226233731.png",
+    "40_资源 Library 📚/课程专栏笔记/课代表立正-如何从「会工作」到「会赚钱」？/认知觉醒/attachments/Pasted image 20250226234937.png",
+    "40_资源 Library 📚/课程专栏笔记/课代表立正-如何从「会工作」到「会赚钱」？/认知觉醒/attachments/Pasted image 20250228221706.png",
+    "40_资源 Library 📚/课程专栏笔记/课代表立正-如何从「会工作」到「会赚钱」？/认知觉醒/attachments/Pasted image 20250226232107.png",
+    "40_资源 Library 📚/课程专栏笔记/课代表立正-如何从「会工作」到「会赚钱」？/认知觉醒/attachments/Pasted image 20250226233958.png",
+    "40_资源 Library 📚/课程专栏笔记/课代表立正-如何从「会工作」到「会赚钱」？/认知觉醒/attachments/Pasted image 20250227233907.png",
+    "40_资源 Library 📚/课程专栏笔记/课代表立正-如何从「会工作」到「会赚钱」？/认知觉醒/7. 改变错误思维，筑牢认知地基，走向「财富自由」.md",
+    "40_资源 Library 📚/课程专栏笔记/课代表立正-如何从「会工作」到「会赚钱」？/认知觉醒/attachments",
+    "40_资源 Library 📚/课程专栏笔记/课代表立正-如何从「会工作」到「会赚钱」？/认知觉醒/6.警惕「打分思维」，接纳多样的世界.md",
+    "40_资源 Library 📚/课程专栏笔记/课代表立正-如何从「会工作」到「会赚钱」？/认知觉醒/4.警惕「客体思维」，学会为自己负责.md",
+    "40_资源 Library 📚/课程专栏笔记/课代表立正-如何从「会工作」到「会赚钱」？/认知觉醒/2.你从「好学生-好工作-赚大钱」的梦中醒来了吗？.md",
+    "40_资源 Library 📚/课程专栏笔记/课代表立正-如何从「会工作」到「会赚钱」？/认知觉醒/3.学习工作和赚钱的正确方法——重复看.md",
+    "40_资源 Library 📚/课程专栏笔记/课代表立正-如何从「会工作」到「会赚钱」？/行动升级与场景解析——工作篇/attachments",
+    "40_资源 Library 📚/课程专栏笔记/课代表立正-如何从「会工作」到「会赚钱」？/思维变革/attachments"
+  ]
+}

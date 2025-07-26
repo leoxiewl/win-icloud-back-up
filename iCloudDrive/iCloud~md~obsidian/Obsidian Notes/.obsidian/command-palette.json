@@ -1,0 +1,9 @@
+{
+  "pinned": [
+    "editor:insert-callout",
+    "editor:insert-embed",
+    "editor:insert-table",
+    "file-explorer:move-file",
+    "editor:insert-link"
+  ]
+}

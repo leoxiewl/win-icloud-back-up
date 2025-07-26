@@ -1,0 +1,454 @@
+{
+  "main": {
+    "id": "f0d1ec47687556a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "572295e1b13be58d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b254cf4fa24eac89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_资源 Library 📚/课程专栏笔记/沟通/Improving Communication Skills/Module1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Module1"
+            }
+          },
+          {
+            "id": "5a478941a7d7618e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_日志 Timeline ⏳/_常思常想/⭐想本质想长远/【重要】我的人生目标.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "【重要】我的人生目标"
+            }
+          },
+          {
+            "id": "af1d2047290de2d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40_资源 Library 📚/课程专栏笔记/Learning How to Learn/Learning How to Learn Powerful mental tools to help you master tough subjects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Learning How to Learn Powerful mental tools to help you master tough subjects"
+            }
+          },
+          {
+            "id": "3fbaf3e8020edcae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_本源 Core 🧩/【目标】制定、拆解、执行、完成、复盘.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "【目标】制定、拆解、执行、完成、复盘"
+            }
+          },
+          {
+            "id": "a6645aba19101168",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "6ffee9b3cd280631",
+            "type": "leaf",
+            "state": {
+<<<<<<< HEAD
+              "type": "markdown",
+              "state": {
+                "file": "00_本源 Core 🧩/📘人生的10个关键问题/0、我人生的北极星是什么？/我人生的北极星是什么？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "我人生的北极星是什么？"
+            }
+          },
+          {
+            "id": "8fdd3188a9f73e71",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/latest.md"
+            }
+          },
+          {
+            "id": "a544b2d22b68d593",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "00_本源 Core 🧩/【目标】next 工作准备.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "【目标】next 工作准备"
+            }
+          }
+        ],
+        "currentTab": 7
+=======
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/要做的事情.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "要做的事情"
+            }
+          }
+        ],
+        "currentTab": 5
+>>>>>>> 50c75078a74794cf0412465f68e8a39708966450
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51b7185adca7eddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "beeea8905a22692e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3f465a929b11d08",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "cf607e085850778b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "大模型",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c0ff23d278402095",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "302a4f0b6cb2db10",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.50840759277344
+  },
+  "right": {
+    "id": "600aa27c971ab8b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "021640016b034b0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c10af04e749c7671",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+<<<<<<< HEAD
+=======
+                "file": "Excalidraw/要做的事情.md",
+>>>>>>> 50c75078a74794cf0412465f68e8a39708966450
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+<<<<<<< HEAD
+              "title": "大纲"
+=======
+              "title": "要做的事情 的大纲"
+>>>>>>> 50c75078a74794cf0412465f68e8a39708966450
+            }
+          },
+          {
+            "id": "76028af84e0e0cfa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0863a3aeafc7072f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5-Resource/多学科思维模型/博弈论.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "博弈论 的反向链接列表"
+            }
+          },
+          {
+            "id": "f854630bb0f3fb94",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5-Resource/多学科思维模型/博弈论.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "博弈论 的出链列表"
+            }
+          },
+          {
+            "id": "211d689fa619548f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "1ed28839099b15e0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "notes-explorer:Notes explorer": false
+    }
+  },
+<<<<<<< HEAD
+  "active": "a544b2d22b68d593",
+  "lastOpenFiles": [
+    "10_日志 Timeline ⏳/🤔每日复盘/2025-07-26 星期六.md",
+    "Vault.md",
+    "Tags",
+    "00_本源 Core 🧩/📘人生的10个关键问题/0、我人生的北极星是什么？/我人生的北极星是什么？.md",
+    "00_本源 Core 🧩/📘人生的10个关键问题/0、我人生的北极星是什么？/attachments/Pasted image 20250726211704.png",
+    "00_本源 Core 🧩/📘人生的10个关键问题/0、我人生的北极星是什么？/attachments",
+    "Excalidraw/要做的事情.md",
+=======
+  "active": "1ed28839099b15e0",
+  "lastOpenFiles": [
+>>>>>>> 50c75078a74794cf0412465f68e8a39708966450
+    "40_资源 Library 📚/课程专栏笔记/沟通/Improving Communication Skills/Module1.md",
+    "00_本源 Core 🧩/【目标】制定、拆解、执行、完成、复盘.md",
+    "40_资源 Library 📚/课程专栏笔记/Learning How to Learn/Learning How to Learn Powerful mental tools to help you master tough subjects.md",
+    "10_日志 Timeline ⏳/_常思常想/⭐想本质想长远/【重要】我的人生目标.md",
+    "40_资源 Library 📚/课程专栏笔记/沟通/Improving Communication Skills/attachments/Pasted image 20250726210740.png",
+    "40_资源 Library 📚/课程专栏笔记/沟通/Improving Communication Skills/attachments/Pasted image 20250726210147.png",
+    "40_资源 Library 📚/课程专栏笔记/沟通/Improving Communication Skills/attachments/Pasted image 20250726205658.png",
+    "40_资源 Library 📚/课程专栏笔记/沟通/Improving Communication Skills/attachments/Pasted image 20250726203013.png",
+    "40_资源 Library 📚/课程专栏笔记/沟通/Improving Communication Skills/attachments",
+<<<<<<< HEAD
+=======
+    "Excalidraw/要做的事情.md",
+>>>>>>> 50c75078a74794cf0412465f68e8a39708966450
+    "40_资源 Library 📚/课程专栏笔记/沟通/Improving Communication Skills/Improving Communication Skills.md",
+    "40_资源 Library 📚/课程专栏笔记/沟通/Improving Communication Skills",
+    "40_资源 Library 📚/学习资料.md",
+    "40_资源 Library 📚/课程专栏笔记/沟通",
+    "Clippings/ChatGPT.md",
+    "Clippings",
+<<<<<<< HEAD
+=======
+    "10_日志 Timeline ⏳/🤔每日复盘/2025-07-26 星期六.md",
+>>>>>>> 50c75078a74794cf0412465f68e8a39708966450
+    "Excalidraw/-07-26 15.55.56.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-26 15.55.56.excalidraw.md",
+    "Excalidraw/顺丰王卫大湾区访谈.md",
+    "30_项目 Projects 🎯/2025下半年找工作/【重要】求职之外，长远来看更应该做什么？.md",
+    "10_日志 Timeline ⏳/_常思常想/⭐想本质想长远/【重要】我想要的人生是什么样子.md",
+    "10_日志 Timeline ⏳/🤔每日复盘/2025-07-23 星期三.md",
+    "10_日志 Timeline ⏳/🤔每日复盘/2025-07-24 星期四.md",
+    "10_日志 Timeline ⏳/🤔每日复盘/2025-07-23.md",
+    "Excalidraw/Drawing 2025-07-23 23.00.25.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-23 23.00.30.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-23 23.00.22.excalidraw.md",
+    "40_资源 Library 📚/课程专栏笔记/Learning How to Learn",
+    "30_项目 Projects 🎯/2025下半年找工作/求职之外，长远来看更应该做什么？.md",
+    "30_项目 Projects 🎯/2025下半年找工作/求职准备流程.md",
+    "10_日志 Timeline ⏳/🤔每日复盘/2025-07-22 周二.md",
+    "40_资源 Library 📚/模板 Template/每日复盘模板2025-07-22.md",
+<<<<<<< HEAD
+    "40_资源 Library 📚/模板 Template/b9k6p2klofqa0n7b27d5oyxhezrgbqdbnq9londnwxq9v2w2bjsz.pdf",
+    "10_日志 Timeline ⏳/🤔每日复盘",
+    "Excalidraw",
+=======
+    "40_资源 Library 📚/模板 Template/日记模板.md",
+    "30_项目 Projects 🎯/2025下半年找工作/求职准备.md",
+    "40_资源 Library 📚/模板 Template/b9k6p2klofqa0n7b27d5oyxhezrgbqdbnq9londnwxq9v2w2bjsz.pdf",
+    "10_日志 Timeline ⏳/🤔每日复盘",
+    "Excalidraw",
+    "Inbox",
+    "00_本源 Core 🧩/💡大佬建议、人生经验、秘密/段永平",
+>>>>>>> 50c75078a74794cf0412465f68e8a39708966450
+    "01-写作/每周写作/Week28 平常心/平常心.canvas",
+    "50_人 Sheep 🤵🏻/张一鸣/attachments/Pasted image 20250713182221.png",
+    "10_日志 Timeline ⏳/_常思常想/⭐目标/attachments/Pasted image 20250526085819.png",
+    "10_日志 Timeline ⏳/_常思常想/_Daily/今日份思考/attachments/IMG_5473.png",
+    "_常思常想/未命名.canvas",
+    "10_日志 Timeline ⏳/_常思常想/attachments/Pasted image 20250504115418.png",
+    "4-Projects/搭建由想法到落地的机制系统/学习整个机制系统.canvas",
+<<<<<<< HEAD
+    "50_人 Sheep 🤵🏻/段永平/attachments/1745982068031_d 1.png"
+=======
+    "50_人 Sheep 🤵🏻/段永平/attachments/1745982068031_d 1.png",
+    "50_人 Sheep 🤵🏻/段永平/attachments/1745982068031_d.png"
+>>>>>>> 50c75078a74794cf0412465f68e8a39708966450
+  ]
+}

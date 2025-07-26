@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"8b668894774db4db","x":-280,"y":-143,"width":250,"height":60,"type":"text","text":"平常心"},
+		{"id":"48e0fdcf5b89209d","x":154,"y":-251,"width":250,"height":60,"type":"text","text":"什么是平常心？"}
+	],
+	"edges":[
+		{"id":"a64581584d8c39e8","fromNode":"8b668894774db4db","fromSide":"right","toNode":"48e0fdcf5b89209d","toSide":"left"}
+	]
+}

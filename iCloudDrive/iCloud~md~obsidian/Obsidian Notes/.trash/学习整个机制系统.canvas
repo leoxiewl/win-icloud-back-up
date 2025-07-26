@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"ac551d9d4acf4b00","type":"text","text":"想法到落地的机制系统","x":-140,"y":-240,"width":250,"height":60},
+		{"id":"daa9bf55fb70b45f","type":"text","text":"人生意义","x":-80,"y":-80,"width":250,"height":60},
+		{"id":"597d6b5bfc5069c5","type":"text","text":"人生目标","x":200,"y":-80,"width":250,"height":60},
+		{"id":"66086b9cab34d114","type":"text","text":"自我认知","x":-360,"y":-80,"width":250,"height":50}
+	],
+	"edges":[
+		{"id":"ac3ddabac3ffd9e5","fromNode":"ac551d9d4acf4b00","fromSide":"bottom","toNode":"66086b9cab34d114","toSide":"top"},
+		{"id":"2c080082d19ad976","fromNode":"ac551d9d4acf4b00","fromSide":"bottom","toNode":"daa9bf55fb70b45f","toSide":"top"}
+	]
+}
