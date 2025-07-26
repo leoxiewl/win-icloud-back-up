@@ -148,25 +148,11 @@
                 "path": "https://www.make.md/static/latest.md"
               },
               "icon": "lucide-file",
-              "title": "插件不再活动"
-            }
-          },
-          {
-            "id": "a544b2d22b68d593",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "https://www.make.md/static/latest.md"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -220,7 +206,7 @@
             }
           },
           {
-            "id": "466ee97f30782286",
+            "id": "d3f3f6d4e597b6d8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -298,12 +284,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_本源 Core 🧩/【目标】next 工作准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "【目标】next 工作准备 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -316,22 +301,12 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
-          {
-            "id": "1ed28839099b15e0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -344,7 +319,6 @@
       "canvas:新建白板": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "random-note:开始漫游笔记": false,
       "daily-notes:打开/创建今天的日记": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-importer:Open Importer": false,
@@ -352,8 +326,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a544b2d22b68d593",
+  "active": "211d689fa619548f",
   "lastOpenFiles": [
+    "10_日志 Timeline ⏳/🤔每日复盘/2025-07-27 星期日.md",
+    "Tags/#读书笔记",
     "00_本源 Core 🧩/价值观/未命名.md",
     "00_本源 Core 🧩/原则/原则.md",
     "00_本源 Core 🧩/未命名.md",
@@ -389,12 +365,9 @@
     "40_资源 Library 📚/学习资料.md",
     "40_资源 Library 📚/课程专栏笔记/沟通",
     "Clippings/ChatGPT.md",
-    "Clippings",
     "Excalidraw/-07-26 15.55.56.excalidraw.md",
     "Excalidraw/Drawing 2025-07-26 15.55.56.excalidraw.md",
     "Excalidraw/顺丰王卫大湾区访谈.md",
-    "30_项目 Projects 🎯/2025下半年找工作/【重要】求职之外，长远来看更应该做什么？.md",
-    "10_日志 Timeline ⏳/_常思常想/⭐想本质想长远/【重要】我想要的人生是什么样子.md",
     "01-写作/每周写作/Week28 平常心/平常心.canvas",
     "50_人 Sheep 🤵🏻/张一鸣/attachments/Pasted image 20250713182221.png",
     "10_日志 Timeline ⏳/_常思常想/⭐目标/attachments/Pasted image 20250526085819.png",
