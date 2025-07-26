@@ -305,8 +305,7 @@
               "title": "插件不再活动"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -326,7 +325,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "211d689fa619548f",
+  "active": "c10af04e749c7671",
   "lastOpenFiles": [
     "10_日志 Timeline ⏳/🤔每日复盘/2025-07-27 星期日.md",
     "Tags/#读书笔记",
